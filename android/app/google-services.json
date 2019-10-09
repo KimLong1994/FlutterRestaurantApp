@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "681451493411",
+    "firebase_url": "https://flutterdatabase-35122.firebaseio.com",
+    "project_id": "flutterdatabase-35122",
+    "storage_bucket": "flutterdatabase-35122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681451493411:android:00af158760e0de852a3996",
+        "android_client_info": {
+          "package_name": "com.example.udemy_meal_thanos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681451493411-p39i0aj1rl19s8vnakrr611i9a1ui77k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltWVZjusBfLAjaeuHWQx2e90Kcj8I9ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681451493411-p39i0aj1rl19s8vnakrr611i9a1ui77k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
